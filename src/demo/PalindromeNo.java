@@ -20,7 +20,7 @@ public class PalindromeNo {
 			
 		}
 		if(rev==m) {
-		System.out.println("yes "+rev);
+		System.out.println("yes its a palindrome "+rev);
 		}
 		else {
 			System.out.println("no "+rev);
