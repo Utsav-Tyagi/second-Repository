@@ -19,7 +19,7 @@ public class ArmstrongNo {
 			
 		}
 		if(rev==m) {
-			System.out.println("armstrong "+ m);
+			System.out.println("armstrong no "+ m);
 			
 		}
 		else {
